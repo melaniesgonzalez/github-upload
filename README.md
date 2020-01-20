@@ -1,3 +1,7 @@
+Set Username and User Email using command line
+1. Type `git congif --global user.name "<username>"
+2. Type `git congif --global user.email "<useremail>"
+
 # Uploading files from local repo to remote repo
 
 Create .gitignore file in local repository using command line (https://help.github.com/en/github/using-git/ignoring-files):
